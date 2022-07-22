@@ -1,0 +1,72 @@
+* {
+    margin: 0.5%;
+    font-family: monospace; 
+}
+header {
+    font-size: large;
+    color: black;
+}
+body {
+    background-color: #7ae0ff;
+}
+ul {
+    display: flex;
+    justify-content: center;
+}
+
+li {
+    padding: 0px 0.2%;
+    list-style-type: none; 
+}
+
+div {
+    display: flex;
+}
+
+main {
+    padding: 1.5%;
+    border: solid 2px #7ae0ff;
+    border-radius: 40px;
+    background-color: #ffeb7a;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+li:last-child {
+    width: 15%;
+}
+
+.fa-shopping-bag {
+    padding-left: 6%;
+}
+
+select {
+    border: none;
+    background-color: #ffeb7a;
+}
+
+input {
+    border: none;
+    width: 52%;
+}
+
+div{
+    justify-content: center;
+    align-items: center;
+}
+
+p{
+    background-color: #7ae0ff;
+    border: #7ae0ff solid 2px;
+    border-radius: 10px;
+    width: 200px;
+}
+
+img {
+    margin: 0 5%;
+}
+
+
